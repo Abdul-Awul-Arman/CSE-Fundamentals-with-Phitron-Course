@@ -1,0 +1,1 @@
+int dvd=num/2;

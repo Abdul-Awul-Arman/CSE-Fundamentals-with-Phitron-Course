@@ -1,0 +1,12 @@
+visited Node 0
+visited Node 1
+visited Node 2
+visited Node 3
+visited Node 4
+visited Node 5
+0
+1
+1
+1
+2
+2
